@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.14.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.6.0"
+  },
+  "name": "mongovcore",
+  "version": "1.0.0",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

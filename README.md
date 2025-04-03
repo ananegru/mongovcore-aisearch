@@ -91,7 +91,7 @@ def transform_document(doc):
 Execute the pipeline to push data from CosmosDB to Azure AI Search:
 
 ```
-python search_index.py
+python main.py
 ```
 
 The script will:
